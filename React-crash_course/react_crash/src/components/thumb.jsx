@@ -1,11 +1,12 @@
 import React from 'react'
 
-const thumb = () => {
+const Thumb = () => {
   return (
     <div>
-      Thumb video
+        <div>HELLO</div>
+     <img src="https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg" alt="Camelon" width={200}/>
+     <div>React JS Tutorial Components</div> 
     </div>
   )
 }
-
-export default thumb
+export default Thumb;

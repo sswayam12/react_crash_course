@@ -1,10 +1,10 @@
 import React from 'react'
-import thumb from './components/thumb'
+import Thumb from './components/thumb'
 
 const App = () => {
   return (
     <div>
-      <thumb/>
+      <Thumb/>
     </div>
   )
 }
